@@ -1,7 +1,7 @@
 ZURB Foundation Sites theme for Drupal 7
 ============================
 
-This is a Drupal 7 theme built using Foundation Sites (https://github.com/zurb/foundation-sites)
+This is a Drupal 7 theme built using Foundation Sites and the flex box grid. (https://github.com/zurb/foundation-sites)
 
 
 Drupal Regions
